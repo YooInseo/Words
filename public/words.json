@@ -1,0 +1,3731 @@
+{
+    "words":[
+        {
+         "English": "applicant",
+         "Korean": ["지원자","신청자"],
+         "Type": ["noun","verb"],
+         "Define":[["noun","plural noun: words",
+         "a single distinct meaningful element of speech or writing, used with others (or sometimes alone) to form a sentence and typically shown with a space on either side when written or printed.",
+         "a command, password, or signal."],
+            ["verb","3rd person present: words","choose and use particular words in order to say or write (something)."]]
+        },
+        {
+         "English": "associate",
+         "Korean": "관련시키다"
+        },
+        {
+         "English": "candidate",
+         "Korean": ["후보자","지원자"]
+        },
+        {
+         "English": "certification",
+         "Korean": "증명서"
+        },
+        {
+         "English": "confidence",
+         "Korean": "확신, 자신감"
+        },
+        {
+         "English": "degree",
+         "Korean": "학위"
+        },
+        {
+         "English": "eligible",
+         "Korean": "자격이 있는"
+        },
+        {
+         "English": "employment",
+         "Korean": "고용"
+        },
+        {
+         "English": "entitle",
+         "Korean": "~에게  자격을  주다"
+        },
+        {
+         "English": "meet",
+         "Korean": "만족시키다"
+        },
+        {
+         "English": "occupation",
+         "Korean": "직업"
+        },
+        {
+         "English": "paycheck",
+         "Korean": "급료, 지불"
+        },
+        {
+         "English": "payroll",
+         "Korean": "급료명부"
+        },
+        {
+         "English": "professional",
+         "Korean": "직업의"
+        },
+        {
+         "English": "proficiency",
+         "Korean": "능숙, 숙달"
+        },
+        {
+         "English": "prospective",
+         "Korean": "미래의"
+        },
+        {
+         "English": "reference",
+         "Korean": "추천서,  참고"
+        },
+        {
+         "English": "recruit",
+         "Korean": "모집하다"
+        },
+        {
+         "English": "qualified",
+         "Korean": "자격  있는"
+        },
+        {
+         "English": "resume",
+         "Korean": "이력서"
+        },
+        {
+         "English": "requirement",
+         "Korean": "필요조건"
+        },
+        {
+         "English": "abolish",
+         "Korean": "폐지하다"
+        },
+        {
+         "English": "access",
+         "Korean": "접근"
+        },
+        {
+         "English": "according to",
+         "Korean": "~에 따라"
+        },
+        {
+         "English": "accuse",
+         "Korean": "비난하다"
+        },
+        {
+         "English": "approval",
+         "Korean": "승인, 인가"
+        },
+        {
+         "English": "at all times",
+         "Korean": "항상, 언제나"
+        },
+        {
+         "English": "attorney",
+         "Korean": "변호사"
+        },
+        {
+         "English": "authorize",
+         "Korean": "~을 인가하다"
+        },
+        {
+         "English": "comply with",
+         "Korean": "~따르다"
+        },
+        {
+         "English": "instruct",
+         "Korean": "가르치다"
+        },
+        {
+         "English": "involved",
+         "Korean": "관계된"
+        },
+        {
+         "English": "notify",
+         "Korean": "~에게 통지하다"
+        },
+        {
+         "English": "oversee",
+         "Korean": "감독하다"
+        },
+        {
+         "English": "release",
+         "Korean": "발표하다"
+        },
+        {
+         "English": "reminder",
+         "Korean": "상기시켜주는 것"
+        },
+        {
+         "English": "request",
+         "Korean": "요청"
+        },
+        {
+         "English": "revision",
+         "Korean": "수정"
+        },
+        {
+         "English": "submit",
+         "Korean": "제출하다"
+        },
+        {
+         "English": "subordinate",
+         "Korean": "부하 직원"
+        },
+        {
+         "English": "supervision",
+         "Korean": "감독"
+        },
+        {
+         "English": "translation",
+         "Korean": "번역"
+        },
+        {
+         "English": "accomplish",
+         "Korean": "성취하다"
+        },
+        {
+         "English": "adjust",
+         "Korean": "적응하다"
+        },
+        {
+         "English": "assign",
+         "Korean": "배정하다"
+        },
+        {
+         "English": "assist",
+         "Korean": "돕다"
+        },
+        {
+         "English": "assume",
+         "Korean": "가정하다"
+        },
+        {
+         "English": "conduct",
+         "Korean": "수행하다"
+        },
+        {
+         "English": "confidential",
+         "Korean": "기밀의"
+        },
+        {
+         "English": "coordinate",
+         "Korean": "조정하다"
+        },
+        {
+         "English": "disturb",
+         "Korean": "방해하다"
+        },
+        {
+         "English": "duplicate",
+         "Korean": "사본"
+        },
+        {
+         "English": "endeavor",
+         "Korean": "노력하다"
+        },
+        {
+         "English": "engage",
+         "Korean": "종사하다"
+        },
+        {
+         "English": "execute",
+         "Korean": "실행하다"
+        },
+        {
+         "English": "foster",
+         "Korean": "촉진하다"
+        },
+        {
+         "English": "friction",
+         "Korean": "불화,  마찰"
+        },
+        {
+         "English": "intention",
+         "Korean": "의도"
+        },
+        {
+         "English": "occasionally",
+         "Korean": "때때로"
+        },
+        {
+         "English": "personnel",
+         "Korean": "직원,  인원"
+        },
+        {
+         "English": "adversity",
+         "Korean": "역경, 불운"
+        },
+        {
+         "English": "assert",
+         "Korean": "단언하다"
+        },
+        {
+         "English": "boost",
+         "Korean": "상승시키다."
+        },
+        {
+         "English": "collapse",
+         "Korean": "붕괴"
+        },
+        {
+         "English": "commerce",
+         "Korean": "통상, 교역"
+        },
+        {
+         "English": "consequence",
+         "Korean": "결과"
+        },
+        {
+         "English": "depression",
+         "Korean": "불황"
+        },
+        {
+         "English": "dramatically",
+         "Korean": "극적으로"
+        },
+        {
+         "English": "economical",
+         "Korean": "경제적인"
+        },
+        {
+         "English": "entail",
+         "Korean": "~을  수반하다"
+        },
+        {
+         "English": "flourish",
+         "Korean": "번창하다"
+        },
+        {
+         "English": "implication",
+         "Korean": "영향,  밀접한 관계"
+        },
+        {
+         "English": "indicator",
+         "Korean": "지표, 지수"
+        },
+        {
+         "English": "industrial",
+         "Korean": "산업의"
+        },
+        {
+         "English": "be  likely  to+root",
+         "Korean": "~할  것 같은"
+        },
+        {
+         "English": "overall",
+         "Korean": "전반적인"
+        },
+        {
+         "English": "promising",
+         "Korean": "유망한"
+        },
+        {
+         "English": "prospect",
+         "Korean": "전망, 예상"
+        },
+        {
+         "English": "prosperity",
+         "Korean": "번영"
+        },
+        {
+         "English": "rapidly",
+         "Korean": "급속히"
+        },
+        {
+         "English": "ratio",
+         "Korean": "비율"
+        },
+        {
+         "English": "remain",
+         "Korean": "여전히 ~한 상태이다."
+        },
+        {
+         "English": "skyrocket",
+         "Korean": "치솟다"
+        },
+        {
+         "English": "slowdown",
+         "Korean": "경기후퇴"
+        },
+        {
+         "English": "soar",
+         "Korean": "(물가등이) 치솟다"
+        },
+        {
+         "English": "stagnant",
+         "Korean": "침체된"
+        },
+        {
+         "English": "supplement",
+         "Korean": "보완하다"
+        },
+        {
+         "English": "thrive",
+         "Korean": "번영하다"
+        },
+        {
+         "English": "volatile",
+         "Korean": "(가격)이 심하게 변동하는"
+        },
+        {
+         "English": "wane",
+         "Korean": ["감소","감퇴"]
+        },
+        {
+         "English": "affect",
+         "Korean": "~에 영향을 미치다"
+        },
+        {
+         "English": "analysis",
+         "Korean": "분석"
+        },
+        {
+         "English": "claim",
+         "Korean": "주장하다"
+        },
+        {
+         "English": "closely",
+         "Korean": "면밀히, 엄밀히"
+        },
+        {
+         "English": "comparison",
+         "Korean": "비교"
+        },
+        {
+         "English": "competition",
+         "Korean": "경쟁"
+        },
+        {
+         "English": "consecutive",
+         "Korean": "연속적인"
+        },
+        {
+         "English": "consistently",
+         "Korean": "일관되게"
+        },
+        {
+         "English": "consolidate",
+         "Korean": "(권력을)강화하다"
+        },
+        {
+         "English": "contend  with",
+         "Korean": "(문제에)대처하다"
+        },
+        {
+         "English": "demand",
+         "Korean": "수요"
+        },
+        {
+         "English": "effective",
+         "Korean": "효과적인"
+        },
+        {
+         "English": "especially",
+         "Korean": "특히"
+        },
+        {
+         "English": "examine",
+         "Korean": "조사하다"
+        },
+        {
+         "English": "expand",
+         "Korean": "확대하다"
+        },
+        {
+         "English": "expectation",
+         "Korean": "예상, 기대"
+        },
+        {
+         "English": "extremely",
+         "Korean": "극도로, 대단히"
+        },
+        {
+         "English": "focus",
+         "Korean": "집중하다"
+        },
+        {
+         "English": "gauge",
+         "Korean": "측정하다"
+        },
+        {
+         "English": "impact",
+         "Korean": "충격, 영향"
+        },
+        {
+         "English": "intervention",
+         "Korean": "간섭"
+        },
+        {
+         "English": "modestly",
+         "Korean": "겸손하게"
+        },
+        {
+         "English": "monopoly",
+         "Korean": "(상품의) 독점"
+        },
+        {
+         "English": "mounting",
+         "Korean": "오르는"
+        },
+        {
+         "English": "perception",
+         "Korean": "인식,  지각"
+        },
+        {
+         "English": "persistent",
+         "Korean": "계속되는"
+        },
+        {
+         "English": "probable",
+         "Korean": "가능성  있는"
+        },
+        {
+         "English": "raise",
+         "Korean": "임금  인상"
+        },
+        {
+         "English": "randomly",
+         "Korean": "임의로"
+        },
+        {
+         "English": "reflective",
+         "Korean": "반영하는"
+        },
+        {
+         "English": "majority",
+         "Korean": "대부분"
+        },
+        {
+         "English": "means",
+         "Korean": ["방법", "수단"]
+        },
+        {
+         "English": "necessarily",
+         "Korean": "반드시"
+        },
+        {
+         "English": "need",
+         "Korean":[ "필요"," 요구"]
+        },
+        {
+         "English": "repeatedly",
+         "Korean": "반복해서"
+        },
+        {
+         "English": "strategy",
+         "Korean": "전략"
+        },
+        {
+         "English": "affordable",
+         "Korean": "감당할  수 있는"
+        },
+        {
+         "English": "alter",
+         "Korean": ["고치다", "바꾸다"]
+        },
+        {
+         "English": "apply",
+         "Korean": "적용(지원)하다"
+        },
+        {
+         "English": "auction",
+         "Korean": "경매"
+        },
+        {
+         "English": "authentic",
+         "Korean": "진짜의"
+        },
+        {
+         "English": "benefit",
+         "Korean": ["혜택", "이익"]
+        },
+        {
+         "English": "carefully",
+         "Korean": "주의 깊게"
+        },
+        {
+         "English": "charge",
+         "Korean": ["요금"," 부과"]
+        },
+        {
+         "English": "delivery",
+         "Korean": "배달"
+        },
+        {
+         "English": "description",
+         "Korean": ["설명서","해설"]
+        },
+        {
+         "English": "equivalent",
+         "Korean": "~에 상당하는"
+        },
+        {
+         "English": "exactly",
+         "Korean": "정확히"
+        },
+        {
+         "English": "exclusively",
+         "Korean": ["독점적으로", " 오로지"]
+        },
+        {
+         "English": "installment",
+         "Korean": "할부"
+        },
+        {
+         "English": "install",
+         "Korean": "설치하다"
+        },
+        {
+         "English": "lately",
+         "Korean": "최근에"
+        },
+        {
+         "English": "merchandise",
+         "Korean": "상품"
+        },
+        {
+         "English": "method",
+         "Korean": "방법"
+        },
+        {
+         "English": "notice",
+         "Korean": "통지"
+        },
+        {
+         "English": "offer",
+         "Korean": "제공하다"
+        },
+        {
+         "English": "officially",
+         "Korean": "공식적으로"
+        },
+        {
+         "English": "purchase",
+         "Korean": "구매하다"
+        },
+        {
+         "English": "readily",
+         "Korean": "쉽게"
+        },
+        {
+         "English": "receipt",
+         "Korean": "영수증"
+        },
+        {
+         "English": "prevent",
+         "Korean": "~을 막다"
+        },
+        {
+         "English": "processing",
+         "Korean": ["처리","가공"]
+        },
+        {
+         "English": "produce",
+         "Korean": "생산하다"
+        },
+        {
+         "English": "properly",
+         "Korean": "정확하게"
+        },
+        {
+         "English": "protective",
+         "Korean": "보호하는"
+        },
+        {
+         "English": "quota",
+         "Korean": "할당량"
+        },
+        {
+         "English": "safety",
+         "Korean": "안전"
+        },
+        {
+         "English": "separately",
+         "Korean": "개별적으로"
+        },
+        {
+         "English": "specification",
+         "Korean": "명세서"
+        },
+        {
+         "English": "stage",
+         "Korean": "단계"
+        },
+        {
+         "English": "tolerance",
+         "Korean": "관용"
+        },
+        {
+         "English": "utilize",
+         "Korean": "이용하다"
+        },
+        {
+         "English": "absolute",
+         "Korean": "완전한"
+        },
+        {
+         "English": "accurate",
+         "Korean": "정확한"
+        },
+        {
+         "English": "advance",
+         "Korean": ["진보","전진"]
+        },
+        {
+         "English": "allow",
+         "Korean": "허락하다"
+        },
+        {
+         "English": "appearance",
+         "Korean": ["외관","외모"]
+        },
+        {
+         "English": "bewildering",
+         "Korean": "당혹케 하는"
+        },
+        {
+         "English": "broad",
+         "Korean": "넓히다"
+        },
+        {
+         "English": "compatible",
+         "Korean": "호환성의"
+        },
+        {
+         "English": "complement",
+         "Korean": "보완하다"
+        },
+        {
+         "English": "control",
+         "Korean": "통제하다"
+        },
+        {
+         "English": "corrosion",
+         "Korean": "부식"
+        },
+        {
+         "English": "development",
+         "Korean": ["개발","발전"]
+        },
+        {
+         "English": "devise",
+         "Korean": "고안하다"
+        },
+        {
+         "English": "disruption",
+         "Korean": ["중단","혼란"]
+        },
+        {
+         "English": "durable",
+         "Korean": "내구성 있는"
+        },
+        {
+         "English": "envision",
+         "Korean": "계획하다"
+        },
+        {
+         "English": "feature",
+         "Korean": ["특징", "특색"]
+        },
+        {
+         "English": "following",
+         "Korean": "~후에"
+        },
+        {
+         "English": "compliment",
+         "Korean": "칭찬"
+        },
+        {
+         "English": "confident",
+         "Korean": "자신 있는"
+        },
+        {
+         "English": "courteous",
+         "Korean": "예의 바른"
+        },
+        {
+         "English": "critical",
+         "Korean": "비판적인"
+        },
+        {
+         "English": "deal",
+         "Korean": "거래(처리)하다"
+        },
+        {
+         "English": "defective",
+         "Korean": "결함이 있는"
+        },
+        {
+         "English": "evaluation",
+         "Korean": "평가"
+        },
+        {
+         "English": "fix",
+         "Korean": "수리하다"
+        },
+        {
+         "English": "further",
+         "Korean": "그 이상의"
+        },
+        {
+         "English": "genuine",
+         "Korean": "진짜의"
+        },
+        {
+         "English": "guarantee",
+         "Korean": "보장하다"
+        },
+        {
+         "English": "hesitate",
+         "Korean": "주저하다"
+        },
+        {
+         "English": "inconvenience",
+         "Korean": "불편"
+        },
+        {
+         "English": "inquire",
+         "Korean": "질문하다"
+        },
+        {
+         "English": "insert",
+         "Korean": "삽입하다"
+        },
+        {
+         "English": "mistakenly",
+         "Korean": "잘못되게"
+        },
+        {
+         "English": "notification",
+         "Korean": "통지"
+        },
+        {
+         "English": "politely",
+         "Korean": "정중하게"
+        },
+        {
+         "English": "replace",
+         "Korean": "~을 교체하다"
+        },
+        {
+         "English": "respond",
+         "Korean": "응답하다"
+        },
+        {
+         "English": "return",
+         "Korean": "반송(왕복)하다"
+        },
+        {
+         "English": "satisfaction",
+         "Korean": "만족"
+        },
+        {
+         "English": "seriously",
+         "Korean": "진지하게"
+        },
+        {
+         "English": "specific",
+         "Korean": "구체적인"
+        },
+        {
+         "English": "accumulate",
+         "Korean": "축척하다"
+        },
+        {
+         "English": "approximately",
+         "Korean": "대략"
+        },
+        {
+         "English": "attraction",
+         "Korean": "관광 명소"
+        },
+        {
+         "English": "baggage",
+         "Korean": "수화물"
+        },
+        {
+         "English": "board",
+         "Korean": "탑승하다"
+        },
+        {
+         "English": "brochure",
+         "Korean": "소책자"
+        },
+        {
+         "English": "imperative",
+         "Korean": "필수적인"
+        },
+        {
+         "English": "impression",
+         "Korean": "인상"
+        },
+        {
+         "English": "initially",
+         "Korean": "처음에"
+        },
+        {
+         "English": "moderator",
+         "Korean": "중재자"
+        },
+        {
+         "English": "modify",
+         "Korean": "수정하다"
+        },
+        {
+         "English": "narrow",
+         "Korean": "좁히다"
+        },
+        {
+         "English": "negotiation",
+         "Korean": "협상"
+        },
+        {
+         "English": "opposing",
+         "Korean": "대립하는"
+        },
+        {
+         "English": "proceed",
+         "Korean": "진척되다"
+        },
+        {
+         "English": "proposal",
+         "Korean": "계획, 제안"
+        },
+        {
+         "English": "renew",
+         "Korean": "갱신하다"
+        },
+        {
+         "English": "review",
+         "Korean": "검토하다"
+        },
+        {
+         "English": "rigid",
+         "Korean": "엄격한"
+        },
+        {
+         "English": "settle",
+         "Korean": "해결하다"
+        },
+        {
+         "English": "solicit",
+         "Korean": "요청하다"
+        },
+        {
+         "English": "term",
+         "Korean": "조건, 기한"
+        },
+        {
+         "English": "terminate",
+         "Korean": "종결시키다"
+        },
+        {
+         "English": "acclaim",
+         "Korean": "찬사, 호평"
+        },
+        {
+         "English": "assure",
+         "Korean": "~에게  보장하다"
+        },
+        {
+         "English": "attain",
+         "Korean": "(목표) 달성하다"
+        },
+        {
+         "English": "commodity",
+         "Korean": "상품, 생산"
+        },
+        {
+         "English": "completely",
+         "Korean": "완전히"
+        },
+        {
+         "English": "confirmation",
+         "Korean": "확인"
+        },
+        {
+         "English": "contact",
+         "Korean": "~와  연락을  취하다"
+        },
+        {
+         "English": "depot",
+         "Korean": "창고,  저장소"
+        },
+        {
+         "English": "diminish",
+         "Korean": "감소하다"
+        },
+        {
+         "English": "distribute",
+         "Korean": "배포하다"
+        },
+        {
+         "English": "inevitable",
+         "Korean": "불가피한"
+        },
+        {
+         "English": "inventory",
+         "Korean": "재고품"
+        },
+        {
+         "English": "invoice",
+         "Korean": "송장"
+        },
+        {
+         "English": "particularly",
+         "Korean": "특히"
+        },
+        {
+         "English": "postage",
+         "Korean": "우편요금"
+        },
+        {
+         "English": "recipient",
+         "Korean": "수신자"
+        },
+        {
+         "English": "reciprocal",
+         "Korean": "상호의"
+        },
+        {
+         "English": "remarkable",
+         "Korean": "두드러진"
+        },
+        {
+         "English": "shipment",
+         "Korean": "선적, 발송"
+        },
+        {
+         "English": "surplus",
+         "Korean": "잉여, 흑자"
+        },
+        {
+         "English": "accommodate",
+         "Korean": "~을 수용하다"
+        },
+        {
+         "English": "atmosphere",
+         "Korean": "분위기,  환경"
+        },
+        {
+         "English": "available",
+         "Korean": "이용  가능한"
+        },
+        {
+         "English": "belongings",
+         "Korean": "소지품"
+        },
+        {
+         "English": "choice",
+         "Korean": "선택"
+        },
+        {
+         "English": "compensate",
+         "Korean": "~에게 보상하다"
+        },
+        {
+         "English": "complimentary",
+         "Korean": "무료의"
+        },
+        {
+         "English": "confirm",
+         "Korean": "확인하다"
+        },
+        {
+         "English": "cuisine",
+         "Korean": "요리"
+        },
+        {
+         "English": "elegant",
+         "Korean": "우아한"
+        },
+        {
+         "English": "entirely",
+         "Korean": "완전히"
+        },
+        {
+         "English": "extensive",
+         "Korean": "광범위한"
+        },
+        {
+         "English": "flavor",
+         "Korean": "맛"
+        },
+        {
+         "English": "forfeit",
+         "Korean": "몰수당하다"
+        },
+        {
+         "English": "freshness",
+         "Korean": "신선함"
+        },
+        {
+         "English": "indigenous",
+         "Korean": "지역  고유의"
+        },
+        {
+         "English": "occupancy",
+         "Korean": "(호텔  등의)이용률"
+        },
+        {
+         "English": "reception",
+         "Korean": "접수처"
+        },
+        {
+         "English": "recipe",
+         "Korean": "요리법"
+        },
+        {
+         "English": "reservation",
+         "Korean": "예약"
+        },
+        {
+         "English": "retain",
+         "Korean": "보유(유지)하다,"
+        },
+        {
+         "English": "utensil",
+         "Korean": "도구, 기구"
+        },
+        {
+         "English": "anticipate",
+         "Korean": "기대하다"
+        },
+        {
+         "English": "audit",
+         "Korean": "회계감사"
+        },
+        {
+         "English": "budget",
+         "Korean": "예산"
+        },
+        {
+         "English": "calculate",
+         "Korean": "계산하다"
+        },
+        {
+         "English": "committee",
+         "Korean": "위원회"
+        },
+        {
+         "English": "curtail",
+         "Korean": "~을 줄이다"
+        },
+        {
+         "English": "deduct",
+         "Korean": "공제하다"
+        },
+        {
+         "English": "deficient",
+         "Korean": "부족한"
+        },
+        {
+         "English": "deficit",
+         "Korean": "적자"
+        },
+        {
+         "English": "discrepancy",
+         "Korean": "불일치,  차이"
+        },
+        {
+         "English": "excess",
+         "Korean": "초과"
+        },
+        {
+         "English": "expenditure",
+         "Korean": "지출, 비용"
+        },
+        {
+         "English": "financial",
+         "Korean": "재정의"
+        },
+        {
+         "English": "fund",
+         "Korean": "자금을  조달하다"
+        },
+        {
+         "English": "generate",
+         "Korean": "창출하다"
+        },
+        {
+         "English": "incidental",
+         "Korean": "부수적인"
+        },
+        {
+         "English": "inconsistency",
+         "Korean": "불일치"
+        },
+        {
+         "English": "liable",
+         "Korean": "책임져야 할,  ~하기 쉬운"
+        },
+        {
+         "English": "liability",
+         "Korean": "책임, 부채"
+        },
+        {
+         "English": "monetary",
+         "Korean": "금전의"
+        },
+        {
+         "English": "overcome",
+         "Korean": "극복하다"
+        },
+        {
+         "English": "preferred",
+         "Korean": "선호되는"
+        },
+        {
+         "English": "reimburse",
+         "Korean": "상환하다"
+        },
+        {
+         "English": "rigorously",
+         "Korean": "엄격히"
+        },
+        {
+         "English": "substantially",
+         "Korean": "크게,  상당히"
+        },
+        {
+         "English": "turnover",
+         "Korean": "이직률, 거래액"
+        },
+        {
+         "English": "accept",
+         "Korean": "승낙하다"
+        },
+        {
+         "English": "acquire",
+         "Korean": "취득하다"
+        },
+        {
+         "English": "active",
+         "Korean": "적극적인"
+        },
+        {
+         "English": "announce",
+         "Korean": "발표하다"
+        },
+        {
+         "English": "asset",
+         "Korean": "자산"
+        },
+        
+        {
+         "English": "damage",
+         "Korean": "손해, 피해"
+        },
+        {
+         "English": "deplete",
+         "Korean": "고갈시키다"
+        },
+        {
+         "English": "disaster",
+         "Korean": "재난"
+        },
+        {
+         "English": "discharge",
+         "Korean": "방출하다"
+        },
+        {
+         "English": "dispose",
+         "Korean": "처리하다"
+        },
+        {
+         "English": "drought",
+         "Korean": "가뭄"
+        },
+        {
+         "English": "ecology",
+         "Korean": "자연  환경"
+        },
+        {
+         "English": "emission",
+         "Korean": "방출, 배기가스"
+        },
+        {
+         "English": "endangered",
+         "Korean": "멸종위기에 처한"
+        },
+        {
+         "English": "environmental",
+         "Korean": "환경적인"
+        },
+        {
+         "English": "extinction",
+         "Korean": "멸종"
+        },
+        {
+         "English": "forecast",
+         "Korean": "날씨  예보"
+        },
+        {
+         "English": "inclement",
+         "Korean": "날씨가 궂은"
+        },
+        {
+         "English": "inflict",
+         "Korean": "피해를  입히다"
+        },
+        {
+         "English": "migration",
+         "Korean": "이주"
+        },
+        {
+         "English": "occur to",
+         "Korean": "발생하다"
+        },
+        {
+         "English": "organization",
+         "Korean": "단체"
+        },
+        {
+         "English": "pollutant",
+         "Korean": "오염물질"
+        },
+        {
+         "English": "prominent",
+         "Korean": "두드러진"
+        },
+        {
+         "English": "purify",
+         "Korean": "정화시키다"
+        },
+        {
+         "English": "recycling",
+         "Korean": "재활용"
+        },
+        {
+         "English": "resource",
+         "Korean": "자원"
+        },
+        {
+         "English": "sewage",
+         "Korean": "하수, 오수"
+        },
+        {
+         "English": "solution",
+         "Korean": "해결책"
+        },
+        {
+         "English": "account",
+         "Korean": "계좌"
+        },
+        {
+         "English": "accumulate",
+         "Korean": "축적하다"
+        },
+        {
+         "English": "bill",
+         "Korean": "~에게 청구서를 보내다"
+        },
+        {
+         "English": "confiscate",
+         "Korean": "몰수하다"
+        },
+        {
+         "English": "convert",
+         "Korean": "전환(변화)하다"
+        },
+        {
+         "English": "counterfeit",
+         "Korean": "가짜, 모조품"
+        },
+        {
+         "English": "justify",
+         "Korean": "정당화하다"
+        },
+        {
+         "English": "legacy",
+         "Korean": "유산, 유물"
+        },
+        {
+         "English": "manipulation",
+         "Korean": "조작, 시장조작"
+        },
+        {
+         "English": "on behalf of",
+         "Korean": "~을 대신해서"
+        },
+        {
+         "English": "outlook",
+         "Korean": "전망"
+        },
+        {
+         "English": "possible",
+         "Korean": "가능한"
+        },
+        {
+         "English": "prevalent",
+         "Korean": "널리  퍼진"
+        },
+        {
+         "English": "property",
+         "Korean": "재산"
+        },
+        {
+         "English": "shareholder",
+         "Korean": "주주"
+        },
+        {
+         "English": "somewhat",
+         "Korean": "전적으로"
+        },
+        {
+         "English": "speculation",
+         "Korean": "추측"
+        },
+        {
+         "English": "stability",
+         "Korean": "안전"
+        },
+        {
+         "English": "unbiased",
+         "Korean": "선입견 없는"
+        },
+        {
+         "English": "yield",
+         "Korean": "(이윤을)가져오다"
+        },
+        {
+         "English": "alleviate",
+         "Korean": "완화하다"
+        },
+        {
+         "English": "alternative",
+         "Korean": "대안"
+        },
+        {
+         "English": "clearly",
+         "Korean": "명확히"
+        },
+        {
+         "English": "commute",
+         "Korean": "통근하다"
+        },
+        {
+         "English": "conform",
+         "Korean": "(규칙  등에)따르다"
+        },
+        {
+         "English": "congestion",
+         "Korean": "혼잡, 체중"
+        },
+        {
+         "English": "designated",
+         "Korean": "지정된"
+        },
+        {
+         "English": "detailed",
+         "Korean": "상세한"
+        },
+        {
+         "English": "detour",
+         "Korean": "우회"
+        },
+        {
+         "English": "divert",
+         "Korean": "우회시키다"
+        },
+        {
+         "English": "fare",
+         "Korean": "요금"
+        },
+        {
+         "English": "expense",
+         "Korean": "비용, 지출"
+        },
+        {
+         "English": "equipment",
+         "Korean": "설비, 장비"
+        },
+        {
+         "English": "malfunction",
+         "Korean": "오작동"
+        },
+        {
+         "English": "motivate",
+         "Korean": "동기를  부여하다"
+        },
+        {
+         "English": "normal",
+         "Korean": "정상, 표준"
+        },
+        {
+         "English": "justify",
+         "Korean": "정당화하다"
+        },
+        {
+         "English": "legacy",
+         "Korean": "유산, 유물"
+        },
+        {
+         "English": "manipulation",
+         "Korean": "조작, 시장조작"
+        },
+        {
+         "English": "on behalf of",
+         "Korean": "~을 대신해서"
+        },
+        {
+         "English": "outlook",
+         "Korean": "전망"
+        },
+        {
+         "English": "possible",
+         "Korean": "가능한"
+        },
+        {
+         "English": "prevalent",
+         "Korean": "널리  퍼진"
+        },
+        {
+         "English": "property",
+         "Korean": "재산"
+        },
+        {
+         "English": "shareholder",
+         "Korean": "주주"
+        },
+        {
+         "English": "somewhat",
+         "Korean": "전적으로"
+        },
+        {
+         "English": "speculation",
+         "Korean": "추측"
+        },
+        {
+         "English": "stability",
+         "Korean": "안전"
+        },
+        {
+         "English": "unbiased",
+         "Korean": "선입견 없는"
+        },
+        {
+         "English": "yield",
+         "Korean": "(이윤을)가져오다"
+        },
+        {
+         "English": "alleviate",
+         "Korean": "완화하다"
+        },
+        {
+         "English": "alternative",
+         "Korean": "대안"
+        },
+        {
+         "English": "clearly",
+         "Korean": "명확히"
+        },
+        {
+         "English": "commute",
+         "Korean": "통근하다"
+        },
+        {
+         "English": "conform",
+         "Korean": "(규칙  등에)따르다"
+        },
+        {
+         "English": "congestion",
+         "Korean": "혼잡, 체중"
+        },
+        {
+         "English": "designated",
+         "Korean": "지정된"
+        },
+        {
+         "English": "detailed",
+         "Korean": "상세한"
+        },
+        {
+         "English": "detour",
+         "Korean": "우회"
+        },
+        {
+         "English": "divert",
+         "Korean": "우회시키다"
+        },
+        {
+         "English": "fare",
+         "Korean": "요금"
+        },
+        {
+         "English": "expense",
+         "Korean": "비용, 지출"
+        },
+        {
+         "English": "equipment",
+         "Korean": "설비, 장비"
+        },
+        {
+         "English": "malfunction",
+         "Korean": "오작동"
+        },
+        {
+         "English": "motivate",
+         "Korean": "동기를  부여하다"
+        },
+        {
+         "English": "normal",
+         "Korean": "정상, 표준"
+        },
+        {
+         "English": "justify",
+         "Korean": "정당화하다"
+        },
+        {
+         "English": "legacy",
+         "Korean": "유산, 유물"
+        },
+        {
+         "English": "manipulation",
+         "Korean": "조작, 시장조작"
+        },
+        {
+         "English": "on behalf of",
+         "Korean": "~을 대신해서"
+        },
+        {
+         "English": "outlook",
+         "Korean": "전망"
+        },
+        {
+         "English": "possible",
+         "Korean": "가능한"
+        },
+        {
+         "English": "prevalent",
+         "Korean": "널리  퍼진"
+        },
+        {
+         "English": "property",
+         "Korean": "재산"
+        },
+        {
+         "English": "shareholder",
+         "Korean": "주주"
+        },
+        {
+         "English": "somewhat",
+         "Korean": "전적으로"
+        },
+        {
+         "English": "speculation",
+         "Korean": "추측"
+        },
+        {
+         "English": "stability",
+         "Korean": "안전"
+        },
+        {
+         "English": "unbiased",
+         "Korean": "선입견 없는"
+        },
+        {
+         "English": "yield",
+         "Korean": "(이윤을)가져오다"
+        },
+        {
+         "English": "alleviate",
+         "Korean": "완화하다"
+        },
+        {
+         "English": "alternative",
+         "Korean": "대안"
+        },
+        {
+         "English": "clearly",
+         "Korean": "명확히"
+        },
+        {
+         "English": "commute",
+         "Korean": "통근하다"
+        },
+        {
+         "English": "conform",
+         "Korean": "(규칙  등에)따르다"
+        },
+        {
+         "English": "congestion",
+         "Korean": "혼잡, 체중"
+        },
+        {
+         "English": "designated",
+         "Korean": "지정된"
+        },
+        {
+         "English": "detailed",
+         "Korean": "상세한"
+        },
+        {
+         "English": "detour",
+         "Korean": "우회"
+        },
+        {
+         "English": "divert",
+         "Korean": "우회시키다"
+        },
+        {
+         "English": "fare",
+         "Korean": "요금"
+        },
+        {
+         "English": "expense",
+         "Korean": "비용, 지출"
+        },
+        {
+         "English": "equipment",
+         "Korean": "설비, 장비"
+        },
+        {
+         "English": "malfunction",
+         "Korean": "오작동"
+        },
+        {
+         "English": "motivate",
+         "Korean": "동기를  부여하다"
+        },
+        {
+         "English": "normal",
+         "Korean": "정상, 표준"
+        },
+        {
+         "English": "annual",
+         "Korean": "매년의"
+        },
+        {
+         "English": "arise",
+         "Korean": "(문제  등이)일어나다"
+        },
+        {
+         "English": "attend",
+         "Korean": "~에 참석하다"
+        },
+        {
+         "English": "attendee",
+         "Korean": "참석자"
+        },
+        {
+         "English": "chronological",
+         "Korean": "시간  순의"
+        },
+        {
+         "English": "commence",
+         "Korean": "시작되다"
+        },
+        {
+         "English": "conference",
+         "Korean": "회의"
+        },
+        {
+         "English": "conjunction",
+         "Korean": "연합, 공동"
+        },
+        {
+         "English": "discriminate",
+         "Korean": "차별하다"
+        },
+        {
+         "English": "enroll",
+         "Korean": "등록하다"
+        },
+        {
+         "English": "existing",
+         "Korean": "기존의, 현행의"
+        },
+        {
+         "English": "exploit",
+         "Korean": "착취하다"
+        },
+        {
+         "English": "function",
+         "Korean": "작동하다"
+        },
+        {
+         "English": "susceptible",
+         "Korean": "~에  감염되기  쉬운"
+        },
+        {
+         "English": "host",
+         "Korean": "(대회  등을)주최하다"
+        },
+        {
+         "English": "include",
+         "Korean": "포함하다"
+        },
+        {
+         "English": "labor",
+         "Korean": "노동"
+        },
+        {
+         "English": "leave",
+         "Korean": "떠나다"
+        },
+        {
+         "English": "lecture",
+         "Korean": "강의"
+        },
+        {
+         "English": "lessen",
+         "Korean": "줄이다"
+        },
+        {
+         "English": "morale",
+         "Korean": "사기"
+        },
+        {
+         "English": "objective",
+         "Korean": "목적, 목표"
+        },
+        {
+         "English": "participant",
+         "Korean": "참가자"
+        },
+        {
+         "English": "purpose",
+         "Korean": "목적, 의도"
+        },
+        {
+         "English": "refer",
+         "Korean": "언급하다"
+        },
+        {
+         "English": "regard",
+         "Korean": "간주하다"
+        },
+        {
+         "English": "registration",
+         "Korean": "등록"
+        },
+        {
+         "English": "require",
+         "Korean": "요구하다"
+        },
+        {
+         "English": "respectfully",
+         "Korean": "공손하게"
+        },
+        {
+         "English": "responsibility",
+         "Korean": "부담, 책임,  의무"
+        },
+        {
+         "English": "transfer",
+         "Korean": "전근시키다"
+        },
+        {
+         "English": "undoubtedly",
+         "Korean": "틀림없이"
+        },
+        {
+         "English": "arrange",
+         "Korean": "마련하다, 배열하다"
+        },
+        {
+         "English": "complex",
+         "Korean": "복잡한"
+        },
+        {
+         "English": "consist",
+         "Korean": "이루어지다"
+        },
+        {
+         "English": "construction",
+         "Korean": "건축"
+        },
+        {
+         "English": "currently",
+         "Korean": "현재"
+        },
+        {
+         "English": "delay",
+         "Korean": "지연되다"
+        },
+        {
+         "English": "densely",
+         "Korean": "밀집하여"
+        },
+        {
+         "English": "urban",
+         "Korean": "도시의"
+        },
+        {
+         "English": "finally",
+         "Korean": "마침내"
+        },
+        {
+         "English": "furnished",
+         "Korean": "가구가  비취된"
+        },
+        {
+         "English": "install",
+         "Korean": "설치하다"
+        },
+        {
+         "English": "insulation",
+         "Korean": "단열재"
+        },
+        {
+         "English": "numerous",
+         "Korean": "많은"
+        },
+        {
+         "English": "location",
+         "Korean": "장소, 위치"
+        },
+        {
+         "English": "interfere",
+         "Korean": "방해하다"
+        },
+        {
+         "English": "repair",
+         "Korean": "수리하다"
+        },
+        {
+         "English": "residence",
+         "Korean": "주택, 저택"
+        },
+        {
+         "English": "permanent",
+         "Korean": "영구적인"
+        },
+        {
+         "English": "renovation",
+         "Korean": "보수, 수리"
+        },
+        {
+         "English": "premises",
+         "Korean": "토지가 딸린 건물"
+        },
+        {
+         "English": "restore",
+         "Korean": "회복시키다"
+        },
+        {
+         "English": "spacious",
+         "Korean": "(공간이)  넓은"
+        },
+        {
+         "English": "structure",
+         "Korean": "구조물"
+        },
+        {
+         "English": "antibiotic",
+         "Korean": "항생제"
+        },
+        {
+         "English": "checkup",
+         "Korean": "건강  진단"
+        },
+        {
+         "English": "chronic",
+         "Korean": "만성의"
+        },
+        {
+         "English": "comprehensive",
+         "Korean": "종합적인"
+        },
+        {
+         "English": "conscious",
+         "Korean": "알고  있는"
+        },
+        {
+         "English": "custody",
+         "Korean": "감금, 구류"
+        },
+        {
+         "English": "effect",
+         "Korean": "효과, 영향"
+        },
+        {
+         "English": "enforce",
+         "Korean": "시행하다"
+        },
+        {
+         "English": "exception",
+         "Korean": "예외"
+        },
+        {
+         "English": "fraud",
+         "Korean": "사기"
+        },
+        {
+         "English": "legislation",
+         "Korean": "법률"
+        },
+        {
+         "English": "legitimate",
+         "Korean": "합법적인"
+        },
+        {
+         "English": "litigation",
+         "Korean": "소송, 기소"
+        },
+        {
+         "English": "observance",
+         "Korean": "준수"
+        },
+        {
+         "English": "petition",
+         "Korean": "진정서"
+        },
+        {
+         "English": "policy",
+         "Korean": "규정, 보험증권"
+        },
+        {
+         "English": "procedure",
+         "Korean": "절차"
+        },
+        {
+         "English": "prohibit",
+         "Korean": "금지하다"
+        },
+        {
+         "English": "prosecute",
+         "Korean": "기소하다"
+        },
+        {
+         "English": "regulation",
+         "Korean": "규정"
+        },
+        {
+         "English": "restrict",
+         "Korean": "제한하다"
+        },
+        {
+         "English": "thoroughly",
+         "Korean": "철저하게"
+        },
+        {
+         "English": "violate",
+         "Korean": "위반하다"
+        },
+        {
+         "English": "accustomed",
+         "Korean": "~에 익숙한"
+        },
+        {
+         "English": "acquaint",
+         "Korean": "잘 알게 하다"
+        },
+        {
+         "English": "attendance",
+         "Korean": "출석"
+        },
+        {
+         "English": "check",
+         "Korean": "조사하다"
+        },
+        {
+         "English": "colleague",
+         "Korean": "동료"
+        },
+        {
+         "English": "concentrate",
+         "Korean": "집중하다"
+        },
+        {
+         "English": "convey",
+         "Korean": "전달하다"
+        },
+        {
+         "English": "corporation",
+         "Korean": "법인"
+        },
+        {
+         "English": "delegate",
+         "Korean": "위임하다"
+        },
+        {
+         "English": "division",
+         "Korean": "부서"
+        },
+        {
+         "English": "efficiently",
+         "Korean": "효율적으로"
+        },
+        {
+         "English": "impending",
+         "Korean": "임박한"
+        },
+        {
+         "English": "respective",
+         "Korean": "각각의"
+        },
+        {
+         "English": "responsible",
+         "Korean": "책임이  있는"
+        },
+        {
+         "English": "subsequent",
+         "Korean": "그 이후의"
+        },
+        {
+         "English": "transform",
+         "Korean": "바꾸다"
+        },
+        {
+         "English": "undertake",
+         "Korean": "떠맡다"
+        },
+        {
+         "English": "voluntarily",
+         "Korean": "자발적으로"
+        },
+        {
+         "English": "accessible",
+         "Korean": "이용할 수 있는"
+        },
+        {
+         "English": "accidentally",
+         "Korean": "우연히"
+        },
+        {
+         "English": "aggravate",
+         "Korean": "악화시키다"
+        },
+        {
+         "English": "apparently",
+         "Korean": "외관상으로"
+        },
+        {
+         "English": "compliance",
+         "Korean": "(명령)준수"
+        },
+        {
+         "English": "concerned",
+         "Korean": "염려하는"
+        },
+        {
+         "English": "demonstrate",
+         "Korean": "증명하다"
+        },
+        {
+         "English": "division",
+         "Korean": "나누다"
+        },
+        {
+         "English": "evacuate",
+         "Korean": "대피하다"
+        },
+        {
+         "English": "expertise",
+         "Korean": "전문적  기술"
+        },
+        {
+         "English": "extended",
+         "Korean": "연장한"
+        },
+        {
+         "English": "feedback",
+         "Korean": "의견, 반응"
+        },
+        {
+         "English": "implement",
+         "Korean": "실행하다"
+        },
+        {
+         "English": "information",
+         "Korean": "정보"
+        },
+        {
+         "English": "Instead of",
+         "Korean": "~대신에"
+        },
+        {
+         "English": "interruption",
+         "Korean": "방해, 중단"
+        },
+        {
+         "English": "make sure",
+         "Korean": "확인하다"
+        },
+        {
+         "English": "outstanding",
+         "Korean": "우수한"
+        },
+        {
+         "English": "privilege",
+         "Korean": "특권"
+        },
+        {
+         "English": "promptly",
+         "Korean": "즉시"
+        },
+        {
+         "English": "sophisticated",
+         "Korean": "정교한"
+        },
+        {
+         "English": "timely",
+         "Korean": "시기적절한"
+        },
+        {
+         "English": "violation",
+         "Korean": "위반"
+        },
+        {
+         "English": "trigger",
+         "Korean": "야기하다."
+        },
+        {
+         "English": "admission",
+         "Korean": "입장"
+        },
+        {
+         "English": "advocate",
+         "Korean": "옹호자"
+        },
+        {
+         "English": "anonymous",
+         "Korean": "익명의"
+        },
+        {
+         "English": "appear",
+         "Korean": "나타나다"
+        },
+        {
+         "English": "beneficial",
+         "Korean": "유익한"
+        },
+        {
+         "English": "celebrity",
+         "Korean": "유명인사"
+        },
+        {
+         "English": "censorship",
+         "Korean": "검열"
+        },
+        {
+         "English": "collection",
+         "Korean": "수집품"
+        },
+        {
+         "English": "contestant",
+         "Korean": "경기자"
+        },
+        {
+         "English": "contributor",
+         "Korean": "기부자"
+        },
+        {
+         "English": "current",
+         "Korean": "현재의"
+        },
+        {
+         "English": "donation",
+         "Korean": "기부"
+        },
+        {
+         "English": "edition",
+         "Korean": "(간행물의)판"
+        },
+        {
+         "English": "enlightening",
+         "Korean": "계몽적인"
+        },
+        {
+         "English": "enthusiastically",
+         "Korean": "열정적으로"
+        },
+        {
+         "English": "exhibition",
+         "Korean": "전시회"
+        },
+        {
+         "English": "fascinating",
+         "Korean": "매혹적인"
+        },
+        {
+         "English": "informative",
+         "Korean": "유익한"
+        },
+        {
+         "English": "issue",
+         "Korean": "발행하다"
+        },
+        {
+         "English": "lend",
+         "Korean": "빌려주다"
+        },
+        {
+         "English": "local",
+         "Korean": "지방의"
+        },
+        {
+         "English": "note",
+         "Korean": "주목하다"
+        },
+        {
+         "English": "municipal",
+         "Korean": "지방자치의"
+        },
+        {
+         "English": "periodical",
+         "Korean": "정기 간행물"
+        },
+        {
+         "English": "popular",
+         "Korean": "인기 있는"
+        },
+        {
+         "English": "present",
+         "Korean": "제시(발표)하다"
+        },
+        {
+         "English": "publication",
+         "Korean": "간행물, 출판물"
+        },
+        {
+         "English": "subscription",
+         "Korean": "정기 구독"
+        },
+        {
+         "English": "upcoming",
+         "Korean": "앞으로  올"
+        },
+        {
+         "English": "variety",
+         "Korean": "다양성"
+        },
+        {
+         "English": "respondent",
+         "Korean": "응답자"
+        },
+        {
+         "English": "survey",
+         "Korean": "조사"
+        },
+        {
+         "English": "adopt",
+         "Korean": "채택하다"
+        },
+        {
+         "English": "advantage",
+         "Korean": "이점, 강점"
+        },
+        {
+         "English": "advertisement",
+         "Korean": "광고"
+        },
+        {
+         "English": "advise",
+         "Korean": "충고하다"
+        },
+        {
+         "English": "aggressively",
+         "Korean": "적극적으로"
+        },
+        {
+         "English": "aim",
+         "Korean": "~을  겨누다"
+        },
+        {
+         "English": "attract",
+         "Korean": "끌다,  유인하다"
+        },
+        {
+         "English": "await",
+         "Korean": "기다리다"
+        },
+        {
+         "English": "cater",
+         "Korean": "요구를  들어주다"
+        },
+        {
+         "English": "confront",
+         "Korean": "~에  직면하다"
+        },
+        {
+         "English": "consumer",
+         "Korean": "소비자"
+        },
+        {
+         "English": "creative",
+         "Korean": "창조적인"
+        },
+        {
+         "English": "customer",
+         "Korean": "고객"
+        },
+        {
+         "English": "deliberate",
+         "Korean": "고의적인"
+        },
+        {
+         "English": "diversify",
+         "Korean": "다양화하다"
+        },
+        {
+         "English": "effort",
+         "Korean": "노력"
+        },
+        {
+         "English": "endorse",
+         "Korean": "보증하다"
+        },
+        {
+         "English": "experiment",
+         "Korean": "실험하다"
+        },
+        {
+         "English": "favorably",
+         "Korean": "호의적으로"
+        },
+        {
+         "English": "feasible",
+         "Korean": "실행 가능한"
+        },
+        {
+         "English": "fortify",
+         "Korean": "강화하다"
+        },
+        {
+         "English": "forward",
+         "Korean": "전진하다"
+        },
+        {
+         "English": "incentive",
+         "Korean": "혜택, 장려금"
+        },
+        {
+         "English": "indicate",
+         "Korean": "나타나다"
+        },
+        {
+         "English": "influence",
+         "Korean": "~에  영향을  주다"
+        },
+        {
+         "English": "instantly",
+         "Korean": "즉각적으로"
+        },
+        {
+         "English": "introduce",
+         "Korean": "소개(도입)하다"
+        },
+        {
+         "English": "largely",
+         "Korean": "주로, 대부분"
+        },
+        {
+         "English": "refund",
+         "Korean": "환불"
+        },
+        {
+         "English": "relatively",
+         "Korean": "상대적으로"
+        },
+        {
+         "English": "sturdy",
+         "Korean": "튼튼한"
+        },
+        {
+         "English": "thrifty",
+         "Korean": "검소한"
+        },
+        {
+         "English": "valid",
+         "Korean": "유효한"
+        },
+        {
+         "English": "value",
+         "Korean": "가치, 가격"
+        },
+        {
+         "English": "voucher",
+         "Korean": "상품권"
+        },
+        {
+         "English": "venue",
+         "Korean": "장소"
+        },
+        {
+         "English": "warranty",
+         "Korean": "보증서"
+        },
+        {
+         "English": "assemble",
+         "Korean": "조립하다"
+        },
+        {
+         "English": "attribute",
+         "Korean": "(원인을)~에 돌리다."
+        },
+        {
+         "English": "automate",
+         "Korean": "자동화하다"
+        },
+        {
+         "English": "capable",
+         "Korean": "~을 할 수  있는"
+        },
+        {
+         "English": "capacity",
+         "Korean": "수용력"
+        },
+        {
+         "English": "carelessly",
+         "Korean": "부주의하게"
+        },
+        {
+         "English": "chemical",
+         "Korean": "화학제품"
+        },
+        {
+         "English": "comparable",
+         "Korean": "비교되는"
+        },
+        {
+         "English": "damaged",
+         "Korean": "손상된"
+        },
+        {
+         "English": "device",
+         "Korean": "장치"
+        },
+        {
+         "English": "discontinue",
+         "Korean": "중단하다"
+        },
+        {
+         "English": "efficiency",
+         "Korean": "효율, 능률"
+        },
+        {
+         "English": "equipment",
+         "Korean": "장비, 설비"
+        },
+        {
+         "English": "evidently",
+         "Korean": "명백히"
+        },
+        {
+         "English": "facility",
+         "Korean": "시설"
+        },
+        {
+         "English": "halt",
+         "Korean": "중단, 정지"
+        },
+        {
+         "English": "launch",
+         "Korean": "(신제품을)  출시하다"
+        },
+        {
+         "English": "material",
+         "Korean": "재료,  물질"
+        },
+        {
+         "English": "operate",
+         "Korean": "작동하다"
+        },
+        {
+         "English": "operational",
+         "Korean": "작동하는"
+        },
+        {
+         "English": "precaution",
+         "Korean": "예방  조치"
+        },
+        {
+         "English": "grant",
+         "Korean": "인정하다"
+        },
+        {
+         "English": "hold",
+         "Korean": "~을  수용하다"
+        },
+        {
+         "English": "improve",
+         "Korean": "향상시키다"
+        },
+        {
+         "English": "increasingly",
+         "Korean": "점점  더"
+        },
+        {
+         "English": "indication",
+         "Korean": "징후, 조짐"
+        },
+        {
+         "English": "innovative",
+         "Korean": "혁신적인"
+        },
+        {
+         "English": "inspect",
+         "Korean": "검사하다"
+        },
+        {
+         "English": "inspiration",
+         "Korean": "영감"
+        },
+        {
+         "English": "interpretation",
+         "Korean": "해석, 설명"
+        },
+        {
+         "English": "manufacturer",
+         "Korean": "제조업자"
+        },
+        {
+         "English": "obsolete",
+         "Korean": "구식의"
+        },
+        {
+         "English": "patent",
+         "Korean": "특허권"
+        },
+        {
+         "English": "quality",
+         "Korean": "품질, 질"
+        },
+        {
+         "English": "reliable",
+         "Korean": "믿을  만한"
+        },
+        {
+         "English": "be schedule to+root",
+         "Korean": "~하기로  되어있는"
+        },
+        {
+         "English": "research",
+         "Korean": "연구, 조사"
+        },
+        {
+         "English": "be  ready to+root",
+         "Korean": "~하기로  되어있는"
+        },
+        {
+         "English": "revolutionary",
+         "Korean": "혁명적인"
+        },
+        {
+         "English": "sufficiently",
+         "Korean": "충분히"
+        },
+        {
+         "English": "vulnerable",
+         "Korean": "취약한"
+        },
+        {
+         "English": "technical",
+         "Korean": "기술적인"
+        },
+        {
+         "English": "superior",
+         "Korean": "우수한"
+        },
+        {
+         "English": "apologize",
+         "Korean": "사과하다"
+        },
+        {
+         "English": "appropriately",
+         "Korean": "적절하게"
+        },
+        {
+         "English": "argumentative",
+         "Korean": "논쟁적인"
+        },
+        {
+         "English": "blemish",
+         "Korean": "흠, 결점"
+        },
+        {
+         "English": "cause",
+         "Korean": "야기하다, 원인"
+        },
+        {
+         "English": "commitment",
+         "Korean": "헌신"
+        },
+        {
+         "English": "complaint",
+         "Korean": "불평"
+        },
+        {
+         "English": "complete",
+         "Korean": "완료하다"
+        },
+        {
+         "English": "customs",
+         "Korean": "세관"
+        },
+        {
+         "English": "declare",
+         "Korean": "(세관에서)신고하다"
+        },
+        {
+         "English": "depart",
+         "Korean": "출발하다"
+        },
+        {
+         "English": "destination",
+         "Korean": "목적지"
+        },
+        {
+         "English": "diverse",
+         "Korean": "다양한"
+        },
+        {
+         "English": "dramatic",
+         "Korean": "극적인"
+        },
+        {
+         "English": "embassy",
+         "Korean": "대사관"
+        },
+        {
+         "English": "emergency",
+         "Korean": "비상사태"
+        },
+        {
+         "English": "exotic",
+         "Korean": "이국적인"
+        },
+        {
+         "English": "hospitality",
+         "Korean": "환대, 친절"
+        },
+        {
+         "English": "indulge",
+         "Korean": "탐닉하다"
+        },
+        {
+         "English": "itinerary",
+         "Korean": "여행  일정"
+        },
+        {
+         "English": "laundry",
+         "Korean": "세탁물"
+        },
+        {
+         "English": "locate",
+         "Korean": "~을  위치시키다"
+        },
+        {
+         "English": "prior  to",
+         "Korean": "~이전에"
+        },
+        {
+         "English": "proximity",
+         "Korean": "가까움"
+        },
+        {
+         "English": "superb",
+         "Korean": "뛰어난"
+        },
+        {
+         "English": "unique",
+         "Korean": "독특한"
+        },
+        {
+         "English": "unavailable",
+         "Korean": "이용할 수 없는"
+        },
+        {
+         "English": "agreement",
+         "Korean": "계약, 협정"
+        },
+        {
+         "English": "arbitration",
+         "Korean": "중재"
+        },
+        {
+         "English": "collaborate",
+         "Korean": "협동하다"
+        },
+        {
+         "English": "compromise",
+         "Korean": "타협, 화해"
+        },
+        {
+         "English": "contract",
+         "Korean": "계약"
+        },
+        {
+         "English": "deadlock",
+         "Korean": "교착  상태"
+        },
+        {
+         "English": "dispute",
+         "Korean": "논쟁, 분쟁"
+        },
+        {
+         "English": "embark",
+         "Korean": "착수하다"
+        },
+        {
+         "English": "expire",
+         "Korean": "(계약이)만기되다"
+        },
+        {
+         "English": "foundation",
+         "Korean": "토대, 기초"
+        },
+        {
+         "English": "impartially",
+         "Korean": "공명정대하게"
+        },
+        {
+         "English": "order",
+         "Korean": "주문하다"
+        },
+        {
+         "English": "provide",
+         "Korean": "제공하다"
+        },
+        {
+         "English": "quote",
+         "Korean": "견적애"
+        },
+        {
+         "English": "refuse",
+         "Korean": "거절하다"
+        },
+        {
+         "English": "represent",
+         "Korean": "~을  대표하다"
+        },
+        {
+         "English": "retail",
+         "Korean": "소매"
+        },
+        {
+         "English": "selection",
+         "Korean": "선택된 것"
+        },
+        {
+         "English": "be  subject  to+root",
+         "Korean": "~하기로 되어 있는"
+        },
+        {
+         "English": "supply",
+         "Korean": "공급하다"
+        },
+        {
+         "English": "temporarily",
+         "Korean": "일시적으로"
+        },
+        {
+         "English": "accelerate",
+         "Korean": "가속화하다"
+        },
+        {
+         "English": "acknowledge",
+         "Korean": "인정하다"
+        },
+        {
+         "English": "adequately",
+         "Korean": "적절히"
+        },
+        {
+         "English": "attach",
+         "Korean": "붙이다, 첨부하다"
+        },
+        {
+         "English": "carton",
+         "Korean": "판지  상자"
+        },
+        {
+         "English": "caution",
+         "Korean": "주의, 조심"
+        },
+        {
+         "English": "correspondence",
+         "Korean": "편지, 통신문"
+        },
+        {
+         "English": "courier",
+         "Korean": "급송  택배"
+        },
+        {
+         "English": "detach",
+         "Korean": "떼다"
+        },
+        {
+         "English": "embargo",
+         "Korean": "무역금지"
+        },
+        {
+         "English": "enact",
+         "Korean": "제정하다"
+        },
+        {
+         "English": "enclose",
+         "Korean": "~을  동봉하다"
+        },
+        {
+         "English": "ensure",
+         "Korean": "보증하다"
+        },
+        {
+         "English": "envelope",
+         "Korean": "봉투"
+        },
+        {
+         "English": "fragile",
+         "Korean": "깨지기  쉬운"
+        },
+        {
+         "English": "handle",
+         "Korean": "다루다"
+        },
+        {
+         "English": "impose",
+         "Korean": "부과하다"
+        },
+        {
+         "English": "inaugurate",
+         "Korean": "~을  개시하다"
+        },
+        {
+         "English": "incorrect",
+         "Korean": "부정확한"
+        },
+        {
+         "English": "be  oblige  to+root",
+         "Korean": "~에게  강요하다"
+        },
+        {
+         "English": "decline",
+         "Korean": "감소, 하락"
+        },
+        {
+         "English": "decrease",
+         "Korean": "감소하다"
+        },
+        {
+         "English": "depend on",
+         "Korean": "~에  의존하다"
+        },
+        {
+         "English": "deviate",
+         "Korean": "빗나가다"
+        },
+        {
+         "English": "disappointing",
+         "Korean": "실망스러운"
+        },
+        {
+         "English": "encouraging",
+         "Korean": "용기를  주는"
+        },
+        {
+         "English": "exceed",
+         "Korean": "~을  초과하다"
+        },
+        {
+         "English": "figure",
+         "Korean": "합계  수,  총액"
+        },
+        {
+         "English": "growth",
+         "Korean": "성장, 발전"
+        },
+        {
+         "English": "illustrate",
+         "Korean": "설명하다"
+        },
+        {
+         "English": "impressive",
+         "Korean": "인상적인"
+        },
+        {
+         "English": "inaccurate",
+         "Korean": "부정확한"
+        },
+        {
+         "English": "increase",
+         "Korean": "증가하다"
+        },
+        {
+         "English": "make up  for",
+         "Korean": "~을  만회하다"
+        },
+        {
+         "English": "offset",
+         "Korean": "상쇄하다"
+        },
+        {
+         "English": "production",
+         "Korean": "생산, 생산량"
+        },
+        {
+         "English": "profit",
+         "Korean": "이익, 수익"
+        },
+        {
+         "English": "projection",
+         "Korean": "예상, 예상치"
+        },
+        {
+         "English": "proportion",
+         "Korean": "부분, 몫"
+        },
+        {
+         "English": "recent",
+         "Korean": "최근의"
+        },
+        {
+         "English": "reduce",
+         "Korean": "줄이다"
+        },
+        {
+         "English": "regular",
+         "Korean": "정기적인"
+        },
+        {
+         "English": "representative",
+         "Korean": "판매 대리인"
+        },
+        {
+         "English": "revenue",
+         "Korean": "수입"
+        },
+        {
+         "English": "significantly",
+         "Korean": "상당히"
+        },
+        {
+         "English": "slightly",
+         "Korean": "약간"
+        },
+        {
+         "English": "substantial",
+         "Korean": "상당한"
+        },
+        {
+         "English": "tend to+root",
+         "Korean": "~하는 경향이 있다"
+        },
+        {
+         "English": "accountant",
+         "Korean": "회계사"
+        },
+        {
+         "English": "allocate",
+         "Korean": "할당하다"
+        },
+        {
+         "English": "authority",
+         "Korean": "권한, 당국"
+        },
+        {
+         "English": "considerable",
+         "Korean": "상당한"
+        },
+        {
+         "English": "contribute",
+         "Korean": "기여하다"
+        },
+        {
+         "English": "dedicated",
+         "Korean": "헌신적인"
+        },
+        {
+         "English": "emerge",
+         "Korean": "나타나다"
+        },
+        {
+         "English": "enhance",
+         "Korean": "강화하다"
+        },
+        {
+         "English": "establish",
+         "Korean": "설립하다"
+        },
+        {
+         "English": "expansion",
+         "Korean": "확장"
+        },
+        {
+         "English": "be force to+root",
+         "Korean": "~강제로 시키다"
+        },
+        {
+         "English": "go through",
+         "Korean": "(고난)겪다"
+        },
+        {
+         "English": "independent",
+         "Korean": "독립의"
+        },
+        {
+         "English": "inform",
+         "Korean": "~에게 알리다"
+        },
+        {
+         "English": "initiate",
+         "Korean": "시작(착수)하다"
+        },
+        {
+         "English": "merge",
+         "Korean": "합병하다"
+        },
+        {
+         "English": "productivity",
+         "Korean": "생산성"
+        },
+        {
+         "English": "progressive",
+         "Korean": "진보적인"
+        },
+        {
+         "English": "relocate",
+         "Korean": "이전하다"
+        },
+        {
+         "English": "reveal",
+         "Korean": "밝히다"
+        },
+        {
+         "English": "simultaneously",
+         "Korean": "동시에"
+        },
+        {
+         "English": "stance",
+         "Korean": "입장, 태도"
+        },
+        {
+         "English": "strategic",
+         "Korean": "전략적인"
+        },
+        {
+         "English": "strike",
+         "Korean": "동맹파업"
+        },
+        {
+         "English": "struggle",
+         "Korean": "분투하다"
+        },
+        {
+         "English": "subsidize",
+         "Korean": "~보조금을 지급하다"
+        },
+        {
+         "English": "surpass",
+         "Korean": "~을  능가하다"
+        },
+        {
+         "English": "takeover",
+         "Korean": "인수"
+        },
+        {
+         "English": "conserve",
+         "Korean": "보존하다"
+        },
+        {
+         "English": "aid",
+         "Korean": "원조, 도움"
+        },
+        {
+         "English": "contaminate",
+         "Korean": "오염시키다"
+        },
+        {
+         "English": "continually",
+         "Korean": "계속적으로"
+        },
+        
+        {
+         "English": "curb",
+         "Korean": "억제하다"
+        },
+        {
+         "English": "delinquent",
+         "Korean": "(세금) 연체된"
+        },
+        {
+         "English": "deposit",
+         "Korean": "입금하다"
+        },
+        {
+         "English": "document",
+         "Korean": "서류, 문서"
+        },
+        {
+         "English": "expect",
+         "Korean": "예상하다"
+        },
+        {
+         "English": "identification",
+         "Korean": "신분증명서"
+        },
+        {
+         "English": "in common",
+         "Korean": "공동으로"
+        },
+        {
+         "English": "investigation",
+         "Korean": "조사"
+        },
+        {
+         "English": "loan",
+         "Korean": "대부, 대부금"
+        },
+        {
+         "English": "lower",
+         "Korean": "(가격을)줄이다"
+        },
+        {
+         "English": "mortgage",
+         "Korean": "주택  융자"
+        },
+        {
+         "English": "overdue",
+         "Korean": "미납의"
+        },
+        {
+         "English": "payable",
+         "Korean": "지불해야 하는"
+        },
+        {
+         "English": "previously",
+         "Korean": "이전에"
+        },
+        {
+         "English": "regrettably",
+         "Korean": "유감스럽게도"
+        },
+        {
+         "English": "statement",
+         "Korean": "명세서"
+        },
+        {
+         "English": "sustain",
+         "Korean": "지속하다"
+        },
+        {
+         "English": "transaction",
+         "Korean": "거래, 업무"
+        },
+        {
+         "English": "withdrawal",
+         "Korean": "인출"
+        },
+        {
+         "English": "confusion",
+         "Korean": "혼란"
+        },
+        {
+         "English": "consent",
+         "Korean": "동의"
+        },
+        {
+         "English": "consider",
+         "Korean": "고려하다"
+        },
+        {
+         "English": "controversy",
+         "Korean": "논란"
+        },
+        {
+         "English": "depreciation",
+         "Korean": "가치  하락"
+        },
+        {
+         "English": "entrepreneur",
+         "Korean": "사업가"
+        },
+        {
+         "English": "eventually",
+         "Korean": "마침내"
+        },
+        {
+         "English": "inherently",
+         "Korean": "본질적으로"
+        },
+        {
+         "English": "innate",
+         "Korean": "타고난"
+        },
+        {
+         "English": "insecure",
+         "Korean": "불안한"
+        },
+        {
+         "English": "investor",
+         "Korean": "투자자"
+        },
+        {
+         "English": "obtain",
+         "Korean": "얻다"
+        },
+        {
+         "English": "opportunity",
+         "Korean": "기회"
+        },
+        {
+         "English": "opposition",
+         "Korean": "반대, 대항"
+        },
+        {
+         "English": "permit",
+         "Korean": "허락하다"
+        },
+        {
+         "English": "principal",
+         "Korean": "주요한"
+        },
+        {
+         "English": "reverse",
+         "Korean": "반대의, 역의"
+        },
+        {
+         "English": "securely",
+         "Korean": "단단하게"
+        },
+        {
+         "English": "simply",
+         "Korean": "그저, 간단히"
+        },
+        {
+         "English": "tow",
+         "Korean": "견인하다"
+        },
+        {
+         "English": "transportation",
+         "Korean": "운송수단"
+        },
+        {
+         "English": "vehicle",
+         "Korean": "차량, 운송수단"
+        },
+        {
+         "English": "adjourn",
+         "Korean": "(회의 등을)휴회하다"
+        },
+        {
+         "English": "confine",
+         "Korean": "제한하다"
+        },
+        {
+         "English": "coherent",
+         "Korean": "일관성  있는"
+        },
+        {
+         "English": "constraint",
+         "Korean": "제한"
+        },
+        {
+         "English": "convince",
+         "Korean": "확신시키다"
+        },
+        {
+         "English": "differ",
+         "Korean": "다르다"
+        },
+        {
+         "English": "discuss",
+         "Korean": "토론하다"
+        },
+        {
+         "English": "disperse",
+         "Korean": "흩어지다"
+        },
+        {
+         "English": "distract",
+         "Korean": "흩뜨리다"
+        },
+        {
+         "English": "elaborate",
+         "Korean": "정교한, 공들인"
+        },
+        {
+         "English": "emphasis",
+         "Korean": "강조, 중점"
+        },
+        {
+         "English": "irrelevant",
+         "Korean": "무관한"
+        },
+        {
+         "English": "opponent",
+         "Korean": "반대자, 적수"
+        },
+        {
+         "English": "organize",
+         "Korean": "조직하다"
+        },
+        {
+         "English": "persuasive",
+         "Korean": "설득력  있는"
+        },
+        {
+         "English": "presumably",
+         "Korean": "아마, 생각컨대"
+        },
+        {
+         "English": "suggestion",
+         "Korean": "제안"
+        },
+        {
+         "English": "unanimous",
+         "Korean": "만장일치의"
+        },
+        {
+         "English": "uphold",
+         "Korean": "지지하다"
+        },
+        {
+         "English": "obtain",
+         "Korean": "얻다"
+        },
+        {
+         "English": "opportunity",
+         "Korean": "기회"
+        },
+        {
+         "English": "opposition",
+         "Korean": "반대, 대항"
+        },
+        {
+         "English": "permit",
+         "Korean": "허락하다"
+        },
+        {
+         "English": "principal",
+         "Korean": "주요한"
+        },
+        {
+         "English": "reverse",
+         "Korean": "반대의, 역의"
+        },
+        {
+         "English": "securely",
+         "Korean": "단단하게"
+        },
+        {
+         "English": "simply",
+         "Korean": "그저, 간단히"
+        },
+        {
+         "English": "tow",
+         "Korean": "견인하다"
+        },
+        {
+         "English": "transportation",
+         "Korean": "운송수단"
+        },
+        {
+         "English": "vehicle",
+         "Korean": "차량, 운송수단"
+        },
+        {
+         "English": "adjourn",
+         "Korean": "(회의 등을)휴회하다"
+        },
+        {
+         "English": "confine",
+         "Korean": "제한하다"
+        },
+        {
+         "English": "coherent",
+         "Korean": "일관성  있는"
+        },
+        {
+         "English": "constraint",
+         "Korean": "제한"
+        },
+        {
+         "English": "convince",
+         "Korean": "확신시키다"
+        },
+        {
+         "English": "differ",
+         "Korean": "다르다"
+        },
+        {
+         "English": "discuss",
+         "Korean": "토론하다"
+        },
+        {
+         "English": "disperse",
+         "Korean": "흩어지다"
+        },
+        {
+         "English": "distract",
+         "Korean": "흩뜨리다"
+        },
+        {
+         "English": "elaborate",
+         "Korean": "정교한, 공들인"
+        },
+        {
+         "English": "emphasis",
+         "Korean": "강조, 중점"
+        },
+        {
+         "English": "irrelevant",
+         "Korean": "무관한"
+        },
+        {
+         "English": "opponent",
+         "Korean": "반대자, 적수"
+        },
+        {
+         "English": "organize",
+         "Korean": "조직하다"
+        },
+        {
+         "English": "persuasive",
+         "Korean": "설득력  있는"
+        },
+        {
+         "English": "presumably",
+         "Korean": "아마, 생각컨대"
+        },
+        {
+         "English": "suggestion",
+         "Korean": "제안"
+        },
+        {
+         "English": "unanimous",
+         "Korean": "만장일치의"
+        },
+        {
+         "English": "uphold",
+         "Korean": "지지하다"
+        },
+        {
+         "English": "obtain",
+         "Korean": "얻다"
+        },
+        {
+         "English": "opportunity",
+         "Korean": "기회"
+        },
+        {
+         "English": "opposition",
+         "Korean": "반대, 대항"
+        },
+        {
+         "English": "permit",
+         "Korean": "허락하다"
+        },
+        {
+         "English": "principal",
+         "Korean": "주요한"
+        },
+        {
+         "English": "reverse",
+         "Korean": "반대의, 역의"
+        },
+        {
+         "English": "securely",
+         "Korean": "단단하게"
+        },
+        {
+         "English": "simply",
+         "Korean": "그저, 간단히"
+        },
+        {
+         "English": "tow",
+         "Korean": "견인하다"
+        },
+        {
+         "English": "transportation",
+         "Korean": "운송수단"
+        },
+        {
+         "English": "vehicle",
+         "Korean": "차량, 운송수단"
+        },
+        {
+         "English": "adjourn",
+         "Korean": "(회의 등을)휴회하다"
+        },
+        {
+         "English": "confine",
+         "Korean": "제한하다"
+        },
+        {
+         "English": "coherent",
+         "Korean": "일관성  있는"
+        },
+        {
+         "English": "constraint",
+         "Korean": "제한"
+        },
+        {
+         "English": "convince",
+         "Korean": "확신시키다"
+        },
+        {
+         "English": "differ",
+         "Korean": "다르다"
+        },
+        {
+         "English": "discuss",
+         "Korean": "토론하다"
+        },
+        {
+         "English": "disperse",
+         "Korean": "흩어지다"
+        },
+        {
+         "English": "distract",
+         "Korean": "흩뜨리다"
+        },
+        {
+         "English": "elaborate",
+         "Korean": "정교한, 공들인"
+        },
+        {
+         "English": "emphasis",
+         "Korean": "강조, 중점"
+        },
+        {
+         "English": "irrelevant",
+         "Korean": "무관한"
+        },
+        {
+         "English": "opponent",
+         "Korean": "반대자, 적수"
+        },
+        {
+         "English": "organize",
+         "Korean": "조직하다"
+        },
+        {
+         "English": "persuasive",
+         "Korean": "설득력  있는"
+        },
+        {
+         "English": "presumably",
+         "Korean": "아마, 생각컨대"
+        },
+        {
+         "English": "suggestion",
+         "Korean": "제안"
+        },
+        {
+         "English": "unanimous",
+         "Korean": "만장일치의"
+        },
+        {
+         "English": "uphold",
+         "Korean": "지지하다"
+        },
+        {
+         "English": "result",
+         "Korean": "결과"
+        },
+        {
+         "English": "tentative",
+         "Korean": "임시적인"
+        },
+        {
+         "English": "union",
+         "Korean": "노동조합"
+        },
+        {
+         "English": "above  all",
+         "Korean": "무엇보다도"
+        },
+        {
+         "English": "appoint",
+         "Korean": "지명하다"
+        },
+        {
+         "English": "award",
+         "Korean": "상"
+        },
+        {
+         "English": "appreciation",
+         "Korean": "감사, 감상"
+        },
+        {
+         "English": "appraisal",
+         "Korean": "평가"
+        },
+        {
+         "English": "characteristic",
+         "Korean": "특징, 특성"
+        },
+        {
+         "English": "cordially",
+         "Korean": "진심으로"
+        },
+        {
+         "English": "delicate",
+         "Korean": "민감한"
+        },
+        {
+         "English": "nomination",
+         "Korean": "지명, 임명"
+        },
+        {
+         "English": "level",
+         "Korean": "지위, 수준"
+        },
+        {
+         "English": "incompetent",
+         "Korean": "무능한"
+        },
+        {
+         "English": "dismiss",
+         "Korean": "해고하다"
+        },
+        {
+         "English": "participation",
+         "Korean": "참여, 참가"
+        },
+        {
+         "English": "predict",
+         "Korean": "예측하다"
+        },
+        {
+         "English": "performance",
+         "Korean": "성과, 연기"
+        },
+        {
+         "English": "promote",
+         "Korean": "승진시키다"
+        },
+        {
+         "English": "reorganize",
+         "Korean": "재조직하다"
+        },
+        {
+         "English": "reward",
+         "Korean": "~에  보답하다"
+        },
+        {
+         "English": "strictly",
+         "Korean": "엄격한"
+        },
+        {
+         "English": "resignation",
+         "Korean": "사직"
+        },
+        {
+         "English": "search",
+         "Korean": "연구, 탐색"
+        },
+        {
+         "English": "serve",
+         "Korean": "근무하다"
+        },
+        {
+         "English": "progress",
+         "Korean": "진척, 진전"
+        },
+        {
+         "English": "praise",
+         "Korean": "칭찬"
+        },
+        {
+         "English": "exceptional",
+         "Korean": "예외적인"
+        },
+        {
+         "English": "evaluate",
+         "Korean": "평가하다"
+        },
+        {
+         "English": "dedication",
+         "Korean": "헌신"
+        }
+       ]
+}

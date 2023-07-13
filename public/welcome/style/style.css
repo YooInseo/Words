@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+input{
+    justify-content: center;
+    width: 250px;
+    height: 20px;
+}
+
+.g_id_signin{
+    position: fixed;
+    width:200px;
+    justify-content: center;
+}
