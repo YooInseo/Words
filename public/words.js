@@ -8,7 +8,7 @@
  * 
  * reset을 누르면 시험 결과가 초기화됨
  */
-let hint = false;
+let Ishint = false;
 
 let IsCheck = false;
 //선택된 단어
@@ -42,17 +42,85 @@ window.addEventListener("load", (event) => {
         check(words)
      })
 
-    let hintButton = document.getElementById("next")
-    hintButton.addEventListener("click", function(){
+    let nextButton = document.getElementById("next")
+    nextButton.addEventListener("click", function(){
         next();
     })
-
+  
+    let hintButton = document.getElementById("hint")
+    hintButton.addEventListener("click", function(){
+        hint(hintButton)
+    })
     
 });
+function hint(button){
+    var table = document.getElementById("myTable"); // 표 가져오기
 
+    if(!Ishint){
+        button.innerHTML = "뜻 숨기기"
+        Ishint = true
+
+  
+        var rowCount = table.rows.length; // 기존 행 개수
+        var firstCell = table.rows[0].insertCell(); // 기존 행에 새로운 셀(열) 추가
+        firstCell.innerHTML = "정답"
+    
+        let cells = []
+         // 기존 행에 열 추가
+         for (var i = 1; i < rowCount; i++) {
+            var newCell = table.rows[i].insertCell(); // 기존 행에 새로운 셀(열) 추가
+            // newCell.innerHTML = "테스트"; // 내용 설정 (원하는 내용으로 변경 가능)
+            cells.push(newCell)
+        }
+        for(let i = 0; i < 10; i++){
+            cells[i].innerHTML =  words[i].Korean
+        }
+    } else{
+        button.innerHTML = "뜻 보기"
+        Ishint = false
+ 
+        if(table.rows[0].cells[2] != null){
+            var row = table.rows[0]
+            row.deleteCell(2)
+            for(i = 1; i<table.rows.length; i++){
+                var row = table.rows[i]
+                row.deleteCell(2)
+            }
+          
+        }
+    
+        // var tableHeaderRowCount = 1;
+        // var rowCount = table.rows.length;
+        // for (var i = tableHeaderRowCount; i < rowCount; i++) {
+        //     table.deleteRow(tableHeaderRowCount);
+        // }
+    }
+}
+
+function reset(){
+    var table = document.getElementById("myTable");
+
+    if(table.rows[0].cells[2] != null){
+        var row = table.rows[1]
+        row.deleteCell(3)
+    }
+   
+  
+}
 
 function next(){
     var table = document.getElementById("myTable");
+
+    if(IsCheck == false){
+        alert("check 버튼을 눌러주세요!")
+        return;
+    }
+
+     if(table.rows[0].cells[2] != null){
+        var row = table.rows[0]
+        row.deleteCell(1)
+    }
+
     var tableHeaderRowCount = 1;
     var rowCount = table.rows.length;
     for (var i = tableHeaderRowCount; i < rowCount; i++) {
@@ -63,7 +131,6 @@ function next(){
     let title = document.getElementById("title");
 
     title.innerHTML  = wordList.length + "개 단어!";
-    console.log(table.rows)
 }
 
 
@@ -72,11 +139,10 @@ function newWords(){
     for(let i =0; i != 10; i++){
         const randomNumber = random()
         const select = wordList[randomNumber];
-        words.push(select)
-        removeItemOnce(wordList, select)
-        var table = document.getElementById("myTable"); // 표 가져오기
 
-        
+        words.push(select)
+
+        removeItemOnce(wordList, select) 
         addRow(select.English, select.Korean, i)
     }
 }
@@ -96,8 +162,8 @@ function check(words){
         return;
     }
     var table = document.getElementById("myTable"); // 표 가져오기
+ 
     var rowCount = table.rows.length; // 기존 행 개수
-  
     var firstCell = table.rows[0].insertCell(); // 기존 행에 새로운 셀(열) 추가
     firstCell.innerHTML = "정답"
 
@@ -113,10 +179,7 @@ function check(words){
         let div = document.getElementById(i);
         let value = div.textContent
         
-        // if(value == ""){
-        //     alert("아직 빈칸이 있습니다!")
-        //     break;
-        // } else{
+         
             let Korean = words[i].Korean
             if(value === Korean){
                 div.style.backgroundColor = "#91f330"
@@ -134,8 +197,8 @@ function check(words){
             }
 
             IsCheck = true;
-        }
-
+       
+    }
        
     
     console.log(wordList)
@@ -163,11 +226,7 @@ function addRow(English, Korean,id ) {
     var row = table.insertRow(rows);
     var cell2 = row.insertCell(0);
     var cell3 = row.insertCell(1);
-    cell2.addEventListener("mouseover", (event) => {
-        if(hint){
-            console.log("test")
-        }
-    });
+ 
     cell3.setAttribute("contenteditable","True")
     cell3.setAttribute("id",id)
     
@@ -185,41 +244,4 @@ function addWords(array, words){
 function shuffle(array) {
     array.sort(() => Math.random() - 0.5);
 }
-
-function GenerateTable() {
-          //Build an array containing Customer records.
-          var customers = new Array();
-          customers.push(["Customer Id", "Name", "Country"]);
-          customers.push([1, "John Hammond", "United States"]);
-          customers.push([2, "Mudassar Khan", "India"]);
-          customers.push([3, "Suzanne Mathews", "France"]);
-          customers.push([4, "Robert Schidner", "Russia"]);
-   
-          //Create a HTML Table element.
-          var table = document.createElement("TABLE");
-          table.border = "1";
-   
-          //Get the count of columns.
-          var columnCount = customers[0].length;
-   
-          //Add the header row.
-          var row = table.insertRow(-1);
-          for (var i = 0; i < columnCount; i++) {
-              var headerCell = document.createElement("TH");
-              headerCell.innerHTML = customers[0][i];
-              row.appendChild(headerCell);
-          }
-   
-          //Add the data rows.
-          for (var i = 1; i < customers.length; i++) {
-              row = table.insertRow(-1);
-              for (var j = 0; j < columnCount; j++) {
-                  var cell = row.insertCell(-1);
-                  cell.innerHTML = customers[i][j];
-              }
-          }
-   
-          var dvTable = document.getElementById("dvTable");
-          dvTable.innerHTML = "";
-          dvTable.appendChild(table);
-      }
+ 
