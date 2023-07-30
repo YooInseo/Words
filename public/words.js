@@ -8,6 +8,7 @@
  * 
  * reset을 누르면 시험 결과가 초기화됨
  */
+
 let Ishint = false;
 
 let IsCheck = false;
@@ -18,12 +19,36 @@ const wordList = []
 
 let score = 0;
 
+let step = 0;
+
+
+/**
+ * Save point by step for showing data table after 10 steps
+ * 
+ */
+let points = []
+
+// Add event listener on keydown
+document.addEventListener('keydown', (event) => {
+    var name = event.key;
+    var code = event.code;
+    // Alert the key name and key code on keydown
+ 
+    if(name == "Enter"){
+        event.preventDefault()
+        check(words)
+    } else if(name =="ArrowRight"){
+        event.preventDefault()
+        next()
+    }
+  }, false);
+
 window.addEventListener("load", (event) => {    
     const point = document.getElementById("point")
     point.innerHTML = `점수 : ${score} / 10`
 
 
-    fetch('http://localhost:3000/words.json',{
+    fetch('http://localhost/words.json',{
         method: 'GET',
         headers: {
             'Accpet': 'application/json'
@@ -58,9 +83,7 @@ function hint(button){
 
     if(!Ishint){
         button.innerHTML = "뜻 숨기기"
-        Ishint = true
-
-  
+        Ishint = true  
         var rowCount = table.rows.length; // 기존 행 개수
         var firstCell = table.rows[0].insertCell(); // 기존 행에 새로운 셀(열) 추가
         firstCell.innerHTML = "정답"
@@ -88,12 +111,6 @@ function hint(button){
             }
           
         }
-    
-        // var tableHeaderRowCount = 1;
-        // var rowCount = table.rows.length;
-        // for (var i = tableHeaderRowCount; i < rowCount; i++) {
-        //     table.deleteRow(tableHeaderRowCount);
-        // }
     }
 }
 
@@ -104,17 +121,21 @@ function reset(){
         var row = table.rows[1]
         row.deleteCell(3)
     }
-   
-  
+
 }
 
 function next(){
     var table = document.getElementById("myTable");
-
+   
+   
+ 
     if(IsCheck == false){
         alert("check 버튼을 눌러주세요!")
         return;
     }
+    points.push(score)
+    console.log(score)
+    updatePoint(0)
 
      if(table.rows[0].cells[2] != null){
         var row = table.rows[0]
@@ -126,11 +147,13 @@ function next(){
     for (var i = tableHeaderRowCount; i < rowCount; i++) {
         table.deleteRow(tableHeaderRowCount);
     }
-    newWords();
-    IsCheck = false
-    let title = document.getElementById("title");
 
-    title.innerHTML  = wordList.length + "개 단어!";
+   
+    newWords();
+    nextStep();
+
+    IsCheck = false
+    
 }
 
 
@@ -181,23 +204,23 @@ function check(words){
         
          
             let Korean = words[i].Korean
+            console.log("Korean", Korean ,"Value", value, "Equal", value === Korean)
+        
             if(value === Korean){
                 div.style.backgroundColor = "#91f330"
                 score++;
-                point.innerHTML = `점수 : ${score} / 10`
+                updatePoint(score)
                 removeItemOnce(wordList, words[i])
                 console.log(words[i])
             } else{
                 cells[i].innerHTML = Korean
                 console.log(cells[i].innerHTML)
-                div.style.backgroundColor = "#f33030" 
+                div.style.backgroundColor = "#ff9292e9" 
                 
                 wordList.push(words[i])
                 
             }
-
-            IsCheck = true;
-       
+            IsCheck = true;  
     }
        
     
@@ -232,16 +255,61 @@ function addRow(English, Korean,id ) {
     
     cell2.innerHTML = English;
     cell3.innerHTML = "";
-
 }
 
-function addWords(array, words){
-    if(array.length < 10){
-        array.push(words)
-    }  
+function nextStep(){
+    
+    if(step != 10){
+        step++
+        
+     
+        const stepHTML = document.getElementById("step")
+        stepHTML.innerHTML = `${step} / 10`
+    } else{
+        const table = document.getElementById("myTable")
+        table.remove();
+        console.log(points)
+        const canvas = document.createElement("canvas")
+        document.body.appendChild(canvas)
+        canvas.style.display = "inline-block"
+        canvas.style.maxWidth = "500px"
+        canvas.style.maxHeight = "300px"
+
+
+        new Chart(canvas, {
+            type: 'bar',
+            data: {
+              labels: ["1", "2", "3", "4", "5" , "6","7","8","9","10"],
+              datasets: [
+                {
+                  label: "점수",
+                  backgroundColor: ["#3e95cd", "#8e5ea2","#3cba9f","#e8c3b9","#c45850"],
+                  data: points
+                }
+              ]
+            },
+            options: {
+              legend: { display: false },
+              title: {
+                display: true,
+                text: 'Predicted world population (millions) in 2050'
+              },
+              scales:{
+                y:{
+                    min: 0,
+                    max: 10
+                }
+              }
+            }
+        });
+    }
+ 
 }
 
-function shuffle(array) {
-    array.sort(() => Math.random() - 0.5);
+function updatePoint(newPoint){
+    score = newPoint
+    const point = document.getElementById("point")
+    point.innerHTML = `점수 : ${score} / 10`
 }
+
  

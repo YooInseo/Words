@@ -41,33 +41,3 @@ function addRow(English, Korean,id) {
 }
 
 
- //Remove Every rows in Answer 
-    getRows(2).forEach(items => {items?.remove()})
-
-    const engRow = getRows(0);
-    const krRow = getRows(1);
-     const titleRow = document.getElementsByClassName("title")[2]
-    titleRow.getElementsByTagName("th")[2].remove()
-
-    words = []
-    for(let i =0; i != 10; i++){
-        const randomNumber = random()
-        const select = wordList[randomNumber];
-
-        words.push(select)
-
-      
-    }
-    engRow.forEach(items =>{
-        const index = engRow.indexOf(items)
-        items.innerText = words[index].English
-    })
-    
-    krRow.forEach(items =>{
-        const index = krRow.indexOf(items)
-        items.innerText = ""
-        items.setAttribute("title", words[index].Korean)
-        items.setAttribute("style","")
-    })
-
-    IsCheck = false

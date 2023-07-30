@@ -7,16 +7,21 @@
     <title>영단어 암기!</title>
     <script src="words.js"></script>
     <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.7.0/dist/chart.min.js"></script>
+
 </head>
 <body>
-    <h1 id="title">1000개 단어!</h1>
-   
-    <button id="check">정답</button>
-    <button id="hint">뜻 보기</button>
-    <button id="next">다음</button>
-
-    <p id="point"></p>
-    
+ 
+    <div class="header">
+      <h1 id="step">0 / 10</h1>
+      
+      <p id="point"></p>
+      <div class="button-36" id="check">정답</div>
+     
+      <div class="button-36" id="hint">뜻 보기</div>
+      <div class="button-36" id="next">다음</div>
+    </div>
+ 
     <table id="myTable">
         <tr id="row">
           <th>영단어</th>

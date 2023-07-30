@@ -2,68 +2,50 @@ body{
   margin: 0px;
   justify-content: center;
   align-items: center;
+  text-align: center;
+  vertical-align: middle;
+  background-color: #017fc8bc;
+  color: white;
   
 }
 table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
-    width: 100%;
+    width: 500px;
+    margin-left: 30%;
   }
   
-  td, th {
-    border: 1px solid #000000;
+  #table tr:nth-child(even){background-color: #d54c4c;}
+
+  td{
+    border: 1px solid #0e1367;
     text-align: left;
     padding: 10px;
-    padding-left: 5px;
- 
   }
+ 
   
   tr:nth-child(even) {
-    background-color: #ffffff;
+    background-color: #7ecdf2;
   } 
-
-  button{
-    
-    width: 200px;
-    height: 50px;
-    background-color: rgb(223, 196, 44);
-  }
-
-
-.progress{
-  display: block;
+.header{
+  width: 100%;
+  height: 150px;
   justify-content: center;
   align-items: center;
-  margin-top: 5px;
-  margin-bottom: 5px;
-  width: 100%;
-  height: 20px;
+  vertical-align: center;
 }
 
-
-.progress_item_above{
-  display: block;
-  float: left;
-  width: 10%;
-  height: 10px;
-  margin: 10px;
-  background-color: #dff0ff;
-  border-radius: 10px;
-  text-align: center;
-  line-height: 30px;
-  color: white;
-}
-
-.progress_item{
-  display: block;
-  float: left;
-  width: 5%;
-  height: 10px;
-  margin: 10px;
-  background-color: #2e96f0;
-  border-radius: 10px;
-  text-align: center;
-  line-height: 30px;
-  color: white;
+.button-36{
+  display: inline-block;
+  background-color: #002751ec ;
+  width: 100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 15px;
+  /* vertical-align: middle; */
 }
  
+
+.button-36:hover{
+  box-shadow: #2da1f5;
+}

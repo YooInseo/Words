@@ -2,12 +2,12 @@
     "words":[
         {
          "English": "applicant",
-         "Korean": ["지원자","신청자"],
+         "Korean": "지원자, 신청자",
          "Type": ["noun","verb"],
          "Define":[["noun","plural noun: words",
-         "a single distinct meaningful element of speech or writing, used with others (or sometimes alone) to form a sentence and typically shown with a space on either side when written or printed.",
-         "a command, password, or signal."],
-            ["verb","3rd person present: words","choose and use particular words in order to say or write (something)."]]
+         "a single distinct meaningful element of speech or writing, used with others (or sometimes alone) to form a sentence and typically shown with a space on either side when written or printed",
+         "a command, password, or signal"],
+            ["verb","3rd person present: words","choose and use particular words in order to say or write (something)"]]
         },
         {
          "English": "associate",
@@ -15,7 +15,7 @@
         },
         {
          "English": "candidate",
-         "Korean": ["후보자","지원자"]
+         "Korean": "후보자, 지원자"
         },
         {
          "English": "certification",
@@ -39,7 +39,7 @@
         },
         {
          "English": "entitle",
-         "Korean": "~에게  자격을  주다"
+         "Korean": "~에게 자격을 주다"
         },
         {
          "English": "meet",
@@ -71,7 +71,7 @@
         },
         {
          "English": "reference",
-         "Korean": "추천서,  참고"
+         "Korean": "추천서, 참고"
         },
         {
          "English": "recruit",
@@ -79,7 +79,7 @@
         },
         {
          "English": "qualified",
-         "Korean": "자격  있는"
+         "Korean": "자격 있는"
         },
         {
          "English": "resume",
@@ -87,7 +87,7 @@
         },
         {
          "English": "requirement",
-         "Korean": "필요조건"
+         "Korean": "필요 조건"
         },
         {
          "English": "abolish",
@@ -255,7 +255,7 @@
         },
         {
          "English": "boost",
-         "Korean": "상승시키다."
+         "Korean": "상승시키다"
         },
         {
          "English": "collapse",
@@ -331,7 +331,7 @@
         },
         {
          "English": "remain",
-         "Korean": "여전히 ~한 상태이다."
+         "Korean": "여전히 ~한 상태이다"
         },
         {
          "English": "skyrocket",
@@ -363,7 +363,7 @@
         },
         {
          "English": "wane",
-         "Korean": ["감소","감퇴"]
+         "Korean": "감소, 감퇴"
         },
         {
          "English": "affect",
@@ -2164,7 +2164,7 @@
         },
         {
          "English": "trigger",
-         "Korean": "야기하다."
+         "Korean": "야기하다"
         },
         {
          "English": "admission",
@@ -2448,7 +2448,7 @@
         },
         {
          "English": "attribute",
-         "Korean": "(원인을)~에 돌리다."
+         "Korean": "(원인을)~에 돌리다"
         },
         {
          "English": "automate",
@@ -3705,7 +3705,7 @@
         },
         {
          "English": "serve",
-         "Korean": "근무하다"
+         "Korean": "근무하다, 제공하다, 차려 주다, 내어주다"
         },
         {
          "English": "progress",
@@ -3726,6 +3726,18 @@
         {
          "English": "dedication",
          "Korean": "헌신"
+        },
+        {
+            "English":"rapture",
+            "Korean":"광희, 황홀, 환희, 황홀하게하다"
+        },
+        {
+            "English":"resounding",
+            "Korean":"굉장한, 소리가 큰"
+        },
+        {
+            "English":"solace",
+            "Korean":"위안, 위로(를 주다), 위로(가 되다)"
         }
        ]
 }
